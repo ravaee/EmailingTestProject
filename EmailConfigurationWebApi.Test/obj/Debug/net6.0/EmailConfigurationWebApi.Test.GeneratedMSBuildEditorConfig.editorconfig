@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmailConfigurationWebApi.Test
-build_property.ProjectDir = E:\projects\Reza\EmailConfigurationWebApi.Test\
+build_property.ProjectDir = E:\projects\Reza\EmailTestingProject\EmailConfigurationWebApi.Test\

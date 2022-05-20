@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HnVGNKsWVGu4+LnwzF3tEh552gO6bjnEeWnvejeVpyMmA0XGgkJPAN2U2rUPNfZkXSa3JAftg3mgidj3IFUITA==",
+  "dgSpecHash": "76rOxmRGl5OgwRAW8RdlQCPyuijkPSSkTfsPr7cFLWlvybCAOmAyIwb0L1vY5NXdXquHsLDCEh+ry24aWkRh6g==",
   "success": true,
-  "projectFilePath": "E:\\projects\\Reza\\EmailConfigurationWebApi\\EmailConfigurationWebApi.csproj",
+  "projectFilePath": "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi\\EmailConfigurationWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ravae\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ravae\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

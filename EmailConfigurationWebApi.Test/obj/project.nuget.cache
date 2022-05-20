@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aj2gSR/FUNTmS2Q4yIm4QcX4xt5PnCrqtNHxrBNxf5YXBbOIH4J2qCQKV4JbkJYELfP5Q5Igu4Z/cTsxFASfNA==",
+  "dgSpecHash": "ycmYHQurN7GUHaqxp+if4FJW8hhGpiE+C31J8HIe8rI0yDnHe08Gs+YvxIZMuAyozCzKGse5SzRsNeYtrHvVug==",
   "success": true,
-  "projectFilePath": "E:\\projects\\Reza\\EmailConfigurationWebApi.Test\\EmailConfigurationWebApi.Test.csproj",
+  "projectFilePath": "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi.Test\\EmailConfigurationWebApi.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ravae\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\ravae\\.nuget\\packages\\fluentassertions\\6.7.0\\fluentassertions.6.7.0.nupkg.sha512",

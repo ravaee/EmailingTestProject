@@ -11279,11 +11279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\Reza\\EmailConfigurationWebApi.Test\\EmailConfigurationWebApi.Test.csproj",
+      "projectUniqueName": "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi.Test\\EmailConfigurationWebApi.Test.csproj",
       "projectName": "EmailConfigurationWebApi.Test",
-      "projectPath": "E:\\projects\\Reza\\EmailConfigurationWebApi.Test\\EmailConfigurationWebApi.Test.csproj",
+      "projectPath": "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi.Test\\EmailConfigurationWebApi.Test.csproj",
       "packagesPath": "C:\\Users\\ravae\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\Reza\\EmailConfigurationWebApi.Test\\obj\\",
+      "outputPath": "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -11307,8 +11307,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\projects\\Reza\\EmailConfigurationWebApi\\EmailConfigurationWebApi.csproj": {
-              "projectPath": "E:\\projects\\Reza\\EmailConfigurationWebApi\\EmailConfigurationWebApi.csproj"
+            "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi\\EmailConfigurationWebApi.csproj": {
+              "projectPath": "E:\\projects\\Reza\\EmailTestingProject\\EmailConfigurationWebApi\\EmailConfigurationWebApi.csproj"
             }
           }
         }
